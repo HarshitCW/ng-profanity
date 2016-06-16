@@ -1,15 +1,34 @@
 {
   "name": "ng-profanity",
   "main": "./ng-profanity.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "angular",
-    "mouth soap",
-    "filter bad words",
-    "filter swear words",
-    "bad words"
+    "mouth",
+    "soap",
+    "filter",
+    "bad",
+    "words",
+    "filter",
+    "swear",
+    "words",
+    "bad",
+    "words"
   ],
   "dependencies": {
     "angular": "*"
-  }
+  },
+  "homepage": "https://github.com/reidwmulkey/ng-profanity",
+  "authors": [
+    "reidwmulkey <reidwmulkey@gmail.com>"
+  ],
+  "description": "AngularJS profanity filter",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
