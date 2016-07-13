@@ -29,7 +29,7 @@ where `vm.flag` is whether or not you want to enable the profanity filter. If yo
 ```
 {{vm.messageText | profanity:true}}
 ```
-
+ 
 License
 --------
 (The MIT License)
