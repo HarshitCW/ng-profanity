@@ -1,19 +1,13 @@
 {
   "name": "ng-profanity",
   "main": "./ng-profanity.js",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "keywords": [
     "angular",
-    "mouth",
     "soap",
-    "filter",
-    "bad",
-    "words",
-    "filter",
-    "swear",
-    "words",
-    "bad",
-    "words"
+    "filter"
+    "swear words",
+    "bad words"
   ],
   "dependencies": {
     "angular": "*"
